@@ -6,4 +6,6 @@ export const COLORS = {
   line: '#E7ECF4',
   pale: '#EAF2FF',
   white: '#FFFFFF',
+  danger: '#E25555',
+  success: '#2FB36B',
 };
