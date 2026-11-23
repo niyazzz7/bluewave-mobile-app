@@ -8,6 +8,11 @@
     "splash": {
       "backgroundColor": "#F5F8FF"
     },
-    "assetBundlePatterns": ["**/*"]
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "plugins": [
+      "expo-status-bar"
+    ]
   }
 }
